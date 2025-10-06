@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1322392395051962450/1424120592524775615/image.png?ex=68e2cb28&is=68e179a8&hm=ecbfe97192a502eea39eff6167e6e258cf5cd3c155e112f891a396412d8b6c07" alt="Aston Computer Science Society Logo" width="400"/>
+<img src="https://github.com/AstonCSS/TwoTruthsOneLie/blob/main/image.png" width="400"/>
 </p>
 
 <h1 align="center">Two Truths, One Lie: A GitHub Talk</h1>
