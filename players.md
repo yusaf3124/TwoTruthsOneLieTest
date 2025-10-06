@@ -14,9 +14,10 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-[Your Full Name]
-Statement 1
+yus cutie
 
-Statement 2
+Statement 1: im so cute
 
-Statement 3
+Statement 2: im so extra cute
+
+Statement 3: im not cute
