@@ -49,7 +49,11 @@ Keep an eye on the main presentation screen. We'll be showing the incoming Pull 
 The Aston Computer Science Society is a student-run group dedicated to building a community for everyone passionate about technology. We run a variety of events, including technical workshops, industry talks, hackathons, and socials.
 
 🔗 Find us here:
-
-discord.gg/acss
+<p>
+<a href="https://www.google.com/url?sa=E&source=gmail&q=https://discord.gg/acss">
+<img src="https://www.google.com/search?q=https://discordapp.com/api/guilds/740583179479679068/widget.png%3Fstyle%3Dshield" alt="Discord">
+</a>
+&nbsp;&nbsp;
+</p>
 
 https://www.instagram.com/astoncss/
